@@ -22,8 +22,3 @@
 
     $word = "Damsmad";
     echo Polidrom::polodromss($word);
-
-?>
-
-
-	
